@@ -1,0 +1,37 @@
+$fonts-path: '../fonts/';
+
+@font-face {
+    font-family: 'fjallaOne-regular';
+    src: url('#{$fonts-path}FjallaOne-Regular.eot'),
+    url('#{$fonts-path}FjallaOne-Regular.woff') format('woff'), 
+    url('#{$fonts-path}FjallaOne-Regular.ttf') format('truetype');   
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'openSans-bold';
+    src: url('#{$fonts-path}OpenSans-Bold.eot'),
+    url('#{$fonts-path}OpenSans-Bold.woff') format('woff'), 
+    url('#{$fonts-path}OpenSans-Bold.ttf') format('truetype');   
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'openSans-regular';
+    src: url('#{$fonts-path}OpenSans-Regular.eot'),
+    url('#{$fonts-path}OpenSans-Regular.woff') format('woff'), 
+    url('#{$fonts-path}OpenSans-Regular.ttf') format('truetype');   
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'greatVibes-regular';
+    src: url('#{$fonts-path}GreatVibes-Regular.eot'),
+    url('#{$fonts-path}GreatVibes-Regular.woff') format('woff'), 
+    url('#{$fonts-path}GreatVibes-Regular.ttf') format('truetype');   
+    font-weight: normal;
+    font-style: normal;
+}

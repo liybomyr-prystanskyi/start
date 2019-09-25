@@ -1,0 +1,17 @@
+/* Fonts */
+@import './fonts';
+
+/* Overwrites */
+@import './overwrites';
+
+/* variables components */
+@import './variables';
+
+/* Atoms components */
+@import '../templates/atoms/**/*';
+/* Molecules components */
+@import '../templates/molecules/**/*';
+/* Organisms components */
+@import '../templates/organisms/**/*';
+/* Pages components */
+@import '../templates/pages/**/*';
